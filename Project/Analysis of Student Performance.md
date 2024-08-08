@@ -2,13 +2,18 @@
 
 Subtitle
 
-Project Overview
+### Project Overview
+This project seeks to clean data on student performance and explore various determinants that affect student gpa
 
-Data Sources
+### Data Sources
+[Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
-Tools
 
-Data Cleaning
+### Tools
+MS Excel
+
+### Data Cleaning
+- 
 
 Explanatory Data Analysis
 
