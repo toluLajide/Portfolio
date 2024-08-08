@@ -1,2 +1,23 @@
-# Portfolio
-Here I will be showcasing my skills acquisition journey and presenting projects I have worked on.
+# Analysis of Student Performance
+
+Subtitle
+
+Project Overview
+https://github.com/toluLajide/Portfolio/blob/main/README.md
+Data Sources
+
+Tools
+
+Data Cleaning
+
+Explanatory Data Analysis
+
+Data Analysis 
+
+Results
+
+Recommendations
+
+Limitations 
+
+References
