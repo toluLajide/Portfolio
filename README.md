@@ -23,6 +23,7 @@ In the intitial data preparation phase I:
 EDA involving exploring the performance questions such as:
 - What characteristics does the average student has
 - What effect do absences have on gpa
+- What are the top 5 determinants of gpa performance
 
 <img width="476" alt="histogram" src="https://github.com/user-attachments/assets/aad3a0c4-e695-4242-ae5d-6047d0503143">
 
