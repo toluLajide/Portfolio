@@ -10,7 +10,7 @@ The primary source for this analysis is the 'Student_performance_dataset_.csv' f
 The file was acquired from [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
 ### Tools
-Excel - Data Cleaning and Analysis: (FIle)
+Excel - Data Cleaning and Analysis: (File)
 
 ### Data Cleaning
 In the intitial data preparation phase I:
