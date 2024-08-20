@@ -6,7 +6,8 @@ Subtitle
 This data analysis aims to provide insights into student performance by analyzing vavrious aspects of the student data in order to identify trends and the biggest predictors of academic success.
 
 ### Data Sources
-The primary source for this analysis is the 'Student_performance_dataset_.csv' file which contains data of various students including academic and nnon-academic attriibutes.
+The primary source for this analysis is the 'Student_performance_dataset_.csv' file which contains data of various students including academic and non-academic attriibutes.
+The file was acquired from [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
 
 ### Tools
 Excel - Data Cleaning and Analysis: (FIle)
@@ -22,6 +23,7 @@ In the intitial data preparation phase I:
 EDA involving exploring the performance questions such as:
 - What characteristics does the average student has
 - What are the biggest predictors of academic success
+
 
 Data Analysis 
 
