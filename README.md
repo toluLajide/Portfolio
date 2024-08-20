@@ -22,9 +22,15 @@ In the intitial data preparation phase I:
 ### Explanatory Data Analysis
 EDA involving exploring the performance questions such as:
 - What characteristics does the average student has
-- What are the biggest predictors of academic success
+- What effect do absences have on gpa
 
+<img width="476" alt="histogram" src="https://github.com/user-attachments/assets/aad3a0c4-e695-4242-ae5d-6047d0503143">
 
+The histogram above shows the distribution of gpa across all the students in the dataset. It shows that average students gpa tends to be around 1.0 to 3.0 with exceptionally good students getting 3.6 and above.
+
+<img width="475" alt="absences" src="https://github.com/user-attachments/assets/4844614a-e681-43fb-842a-4673925dfeb6">
+
+The graph above shows the negative correlation between absences and gpa where about 1 absence can lead to a .1 decrease in gpa
 Data Analysis 
 
 Results
