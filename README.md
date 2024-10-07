@@ -14,10 +14,10 @@ Excel - Data Cleaning and Analysis: (File)
 
 ### Data Cleaning
 In the intitial data preparation phase I:
-- Data Loading and Inspection
-- Handling Missing Values
-- Data cleaning and Formatting
-- Converting categorical variables represented by numbers to descriptive text
+- Data Loading and Inspection: Inspected the dataset for any inconsistencies, data types, and overall structure.
+- Handling Missing Values: Imputed missing data by replacing them with the mean or median values, where applicable, to avoid data loss.
+- Data Formatting: Reformatted columns to ensure consistency, particularly for date and numerical fields.
+- Converting Categorical Variables: Converted categorical variables represented by numbers (such as gender or ethnicity) into descriptive text for clarity.
 
 ### Explanatory Data Analysis
 EDA involving exploring the performance questions such as:
@@ -35,7 +35,8 @@ The graph above shows the negative correlation between absences and gpa where ab
 Data Analysis 
 
 Results
-
+- Key Predictors of GPA: Attendance, study time, and parental education level emerged as the strongest predictors of GPA.
+- Absenteeism Impact: The data showed a clear trend where increased absences led to lower academic performance.
 Recommendations
 
 Limitations 
